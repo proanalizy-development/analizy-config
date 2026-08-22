@@ -1,0 +1,26 @@
+{
+  "config_version": 1,
+  "api_base_url": "https://proanalizy.com",
+  "documents": {
+    "policy": "https://proanalizy.ru/policy",
+    "terms": "https://proanalizy.ru/terms",
+    "offer": "https://proanalizy.ru/offer",
+    "consent": "https://proanalizy.ru/consent"
+  },
+  "store_urls": {
+    "ios": "",
+    "android": "https://play.google.com/store/apps/details?id=com.proanalizys.app"
+  },
+  "limits": {
+    "max_files": 5
+  },
+  "pricing": {
+    "clinic_price": 1500
+  },
+  "support_email": "support@proanalizy.com",
+  "min_supported_version": "1.0.0",
+  "maintenance": {
+    "enabled": false,
+    "message": ""
+  }
+}
